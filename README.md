@@ -220,3 +220,4 @@ import GearLoader from './components/GearLoader';
 <GearLoader />
 ```
 <img src="images-loaders/dents.png" alt="image de github" width="400"/>
+<img src="images-loaders/dents.png" alt="image de github" width="400"/>
