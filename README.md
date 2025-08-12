@@ -223,3 +223,29 @@ import GearLoader from './components/GearLoader';
 ```
 
 <img src="images-loaders/dents.png" alt="image de github" width="400"/>
+
+
+
+# NB
+-  Toutes les pages d’une application React **ne sont pas obligées** de contenir un loader.
+
+En fait, on utilise un **loader** (spinner, barre de progression, skeleton, etc.) uniquement quand :
+
+* Il y a un **temps d’attente** avant d’afficher le contenu (ex. requête API, calcul lourd, chargement de ressources).
+* On veut **indiquer à l’utilisateur** que quelque chose est en train de se passer.
+
+💡 **Cas fréquents où un loader est utile** :
+
+1. **Chargement initial d’une page** → quand tu attends la réponse d’un backend.
+2. **Soumission d’un formulaire** → pour éviter que l’utilisateur clique plusieurs fois.
+3. **Navigation lente** (lazy loading des composants/pages).
+4. **Recherche** ou traitement asynchrone.
+
+⚠ **Pas besoin** de loader :
+
+* Pour les pages statiques ou déjà disponibles localement.
+* Quand le chargement est quasi instantané.
+
+---
+
+
