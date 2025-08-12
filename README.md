@@ -199,6 +199,8 @@ export default GearLoader;
     transform: translate(-50%, -50%) rotate(0deg);
   }
   to {
+￼
+
     transform: translate(-50%, -50%) rotate(360deg);
   }
 }
@@ -219,4 +221,5 @@ import GearLoader from './components/GearLoader';
 // Version de base
 <GearLoader />
 ```
+
 <img src="images-loaders/dents.png" alt="image de github" width="400"/>
