@@ -103,6 +103,7 @@ const SpinnerLoader = () => (
 );
 ```
 <img src="images-loaders/spinner-tailwindcss.png" alt="image de github" width="400"/>
+
 ## L3. Progress Bar Loader:
 ```tsx
 const ProgressLoader = () => (
@@ -127,3 +128,95 @@ Add this to your CSS for the progress bar:
 }
 ```
 <img src="images-loaders/loader-barProgress.png" alt="image de github" width="400"/>
+
+## L4 .GearLoader
+### GearLoader.tsx
+```tsx
+import React from 'react';
+import './GearLoader.css'; // Nous créerons ce fichier ensuite
+
+const GearLoader = () => {
+  return (
+    <div className="loader-container">
+      <div className="gear" id="gear1">
+        <img 
+          src="https://assets.codepen.io/6093409/gear.svg.png" 
+          alt="an illustration of a gear" 
+        />
+      </div>
+      <div className="gear" id="gear2">
+        <img 
+          src="https://assets.codepen.io/6093409/gear.svg.png" 
+          alt="an illustration of a gear" 
+        />
+      </div>
+    </div>
+  );
+};
+
+export default GearLoader;
+```
+
+### GearLoader.css
+```css
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  position: relative;
+}
+
+.gear {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+}
+
+#gear1 {
+  left: 44%;
+  transform: translate(-50%, -50%);
+  transform-origin: center;
+  animation: rotate-clockwise 4s linear infinite;
+}
+
+#gear2 {
+  left: 58%;
+  transform: translate(-50%, -50%) rotate(10deg);
+  transform-origin: center;
+  animation: rotate-counterclockwise 4s linear infinite;
+}
+
+.gear img {
+  width: 100%;
+  height: 100%;
+  filter: brightness(0) saturate(100%) invert(44%) sepia(92%) saturate(3154%) 
+          hue-rotate(353deg) brightness(101%) contrast(101%);
+}
+
+@keyframes rotate-clockwise {
+  from {
+    transform: translate(-50%, -50%) rotate(0deg);
+  }
+  to {
+    transform: translate(-50%, -50%) rotate(360deg);
+  }
+}
+
+@keyframes rotate-counterclockwise {
+  from {
+    transform: translate(-50%, -50%) rotate(10deg);
+  }
+  to {
+    transform: translate(-50%, -50%) rotate(-346deg);
+  }
+}
+```
+### Utilisation dans votre composant
+```tsx
+import GearLoader from './components/GearLoader';
+
+// Version de base
+<GearLoader />
+```
+<img src="images-loaders/dents.png" alt="image de github" width="400"/>
