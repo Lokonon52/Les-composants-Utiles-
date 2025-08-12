@@ -77,7 +77,7 @@ export default Loader;
   }
 }
 ```
-
+<img src="images-loaders/Spinner.png" alt="image de github" width="400"/>
 ## 3. Usage in your Familles component:
 
 First import the loader:
@@ -102,7 +102,7 @@ const SpinnerLoader = () => (
   </div>
 );
 ```
-
+<img src="images-loaders/spinner-tailwindcss.png" alt="image de github" width="400"/>
 ## L3. Progress Bar Loader:
 ```tsx
 const ProgressLoader = () => (
@@ -126,3 +126,4 @@ Add this to your CSS for the progress bar:
   animation: progress linear infinite;
 }
 ```
+<img src="images-loaders/loader-barProgress.png" alt="image de github" width="400"/>
