@@ -1,7 +1,4 @@
-# Les-composants-Utiles (Tailwindcss ou HTML/CSS)
-## Les differentes branches
-### 1.Loaders
-### 2.Forms
-### 3.Card
-### 4.Navs
-### 5.Tables
+
+# 6.Carrousels
+### 1. Tailwindcss-and-jquery (A modifier en version react js par  Chat gpt)
+- [Carrousels](https://www.creative-tim.com/twcomponents/component/carousel-slider-with-tailwindcss-and-jquery)
