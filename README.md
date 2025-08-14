@@ -9,6 +9,7 @@
   ### 4. Carte Image/vidéo
 - [Carte-Image1](https://www.creative-tim.com/twcomponents/component/basic-im-super-dogger)
 - [Carte-Image2](https://www.creative-tim.com/twcomponents/component/quote-card-with-image-1)
+-  [Carte-Image3](https://www.creative-tim.com/twcomponents/component/profile-card-horizon-ui-tailwind)
   ### 5. Carte d'abonnement 
 - [Carte d'abonnement1](https://www.creative-tim.com/twcomponents/component/subscriptions)
 - [Carte d'abonnement2](https://www.creative-tim.com/twcomponents/component/tailwind-css-pricing-card-1)
