@@ -1,6 +1,5 @@
-# Les-composants-Utiles (Tailwindcss ou HTML/CSS)
-## Les differentes branches
-### 1.Loaders
-### 2.Forms
-### 3.Card
-### 4.Navs
+
+# 2.Forms
+
+## 1  Forgot Password
+-[ Forgot Password1](https://www.creative-tim.com/twcomponents/component/modal-forgot-password-tailwind-css)
