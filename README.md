@@ -10,3 +10,5 @@
 - [Carte-Image1](https://www.creative-tim.com/twcomponents/component/basic-im-super-dogger)
   ### 5. Carte d'abonnement 
 - [ Carte d'abonnement](https://www.creative-tim.com/twcomponents/component/subscriptions)
+  ### 5. Plan d'affichage de l'en-tête (Ex les offres de formations/services)
+- [ Plan d'affichage1](https://www.creative-tim.com/twcomponents/component/header-show-plan)
