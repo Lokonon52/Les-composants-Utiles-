@@ -5,3 +5,4 @@
 ### 2. Controler par navigation
 - [Carousels1](https://www.creative-tim.com/twcomponents/component/carousel)
 - [Carousels2](https://www.creative-tim.com/twcomponents/component/image-slider/landing)
+- [Carousels3](https://www.creative-tim.com/twcomponents/component/simple-image-slider)
