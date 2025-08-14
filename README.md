@@ -12,9 +12,10 @@
 - [Carte d'abonnement1](https://www.creative-tim.com/twcomponents/component/subscriptions)
 - [Carte d'abonnement2](https://www.creative-tim.com/twcomponents/component/tailwind-css-pricing-card-1)
 - [Carte d'abonnement3](https://www.creative-tim.com/twcomponents/component/tailwind-css-alpinejs-pricing-page)
-
-
+- [Carte d'abonnement4](https://www.creative-tim.com/twcomponents/component/pricing)
   ### 6. Plan d'affichage de l'en-tête (Ex les offres de formations/services)
 - [ Plan d'affichage1](https://www.creative-tim.com/twcomponents/component/header-show-plan)
   ### 7.Composant d'interface utilisateur météo
 [weather1](https://www.creative-tim.com/twcomponents/component/weather-ui-component)
+
+
