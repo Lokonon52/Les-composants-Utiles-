@@ -22,3 +22,5 @@
  - [weather1](https://www.creative-tim.com/twcomponents/component/weather-ui-component)
   ### 8.sopping-cart/landing
  - [sopping-cart/landing](https://www.creative-tim.com/twcomponents/component/sopping-cart/landing)
+ ### 9. Modal
+ [ Modal1](https://www.creative-tim.com/twcomponents/component/tailwind-css-web-3-modal)
