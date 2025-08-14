@@ -9,6 +9,3 @@
 - [Sign-in-form1](https://www.creative-tim.com/twcomponents/component/free-tailwind-css-sign-in-component)
 - [Sign-in-form2](https://www.creative-tim.com/twcomponents/component/minimal-login-form)
 - [Sign-in-form3](https://www.creative-tim.com/twcomponents/component/tela-de-login)
-
-
- l
