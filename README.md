@@ -17,6 +17,6 @@
 - [Plan d'affichage1](https://www.creative-tim.com/twcomponents/component/header-show-plan)
 - [Plan d'affichage2](https://www.creative-tim.com/twcomponents/component/skyscanner-clone)
   ### 7.Composant d'interface utilisateur météo
-[weather1](https://www.creative-tim.com/twcomponents/component/weather-ui-component)
-
-
+ - [weather1](https://www.creative-tim.com/twcomponents/component/weather-ui-component)
+  ### 8.sopping-cart/landing
+ - [sopping-cart/landing](https://www.creative-tim.com/twcomponents/component/sopping-cart/landing)
